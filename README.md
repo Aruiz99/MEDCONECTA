@@ -8,3 +8,4 @@ MEDCONECTA busca delinear una red de corredores que maximicen la coherencia espa
 ![Captura de pantalla 2023-09-19 125746](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/f701a90d-7db0-4183-84c2-3b7d4680496d)
 
 ![id_growing](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/046c529c-c50b-4a11-826e-9f50982dfa1a)
+![Imagen4](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/b9a3d234-6735-475a-86ca-436c5201909f)
