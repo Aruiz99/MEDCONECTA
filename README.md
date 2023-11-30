@@ -2,8 +2,18 @@
 
 MEDCONECTA busca delinear una red de corredores que maximicen la coherencia espacial de la Infraestructura Verde (IV), identificando los niveles de conservación o restauración que se requieren para asegurar la funcionalidad del sistema. Teniendo en cuenta que las transferencias funcionales entre ecosistemas suelen darse más fácilmente si el espacio intermedio tiene propiedades similares, se ensayará un algoritmo en el sureste peninsular, utilizando la información de Andalucía, Región de Murcia y Comunidad Valenciana en materia de IV que se combinará con la identificación de acciones de restauración o de gestión bajo el estándar de Soluciones basadas en la Naturaleza de UICN. Se incluye un componente de participación con los técnicos y gestores del medio. El objetivo es que los resultados proporcionen una base técnica a las autoridades reguladoras para el desarrollo integrado de IV que favorezcan la mitigación de los impactos del cambio climático, prevención de desastres y pérdida de biodiversidad.
 
+## Tabla de Contenidos
 
-Datos de entrada
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Instalación
+
+Proporciona aquí instrucciones claras y concisas sobre cómo instalar y configurar tu proyecto. Incluye ejemplos si es posible.
+
+## Datos de entrada
 
 ![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
 ![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
