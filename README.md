@@ -9,6 +9,7 @@ MEDCONECTA busca delinear una red de corredores que maximicen la coherencia espa
    - [Desarrollo](#desarrollo)
    - [Resultados](#resultados)
 - [Uso](#uso)
+- [Estado del Proyecto](#estado-del-proyecto)
 - [Licencia](#licencia)
 
 ## Metodología
@@ -29,13 +30,20 @@ Muestra los resultados o hallazgos obtenidos del proyecto.
 
 Explica cómo utilizar tu proyecto, proporciona ejemplos, capturas de pantalla y demostraciones si es posible.
 
+## Estado del proyecto
+Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pueden encontrar errores y funcionalidades incompletas. Se recomienda utilizarlo con precaución en cualquier entorno de producción.
+
+## Licencia
+
 ```python
 // Ejemplo de código
+h = 1
+´´´
+
 ![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
 ![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
 
 
-Ejemplo de algortimo
 ![id_growing](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/046c529c-c50b-4a11-826e-9f50982dfa1a)
 
 ![Captura de pantalla 2023-09-19 125746](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/f701a90d-7db0-4183-84c2-3b7d4680496d)
