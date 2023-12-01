@@ -41,6 +41,9 @@ con Alta Biomasa, Submaduro, Maduro, Referencia y Anomalía de Alto Rendimiento)
 
 ![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
 
+<!-- Salto adicional -->
+
+Para más información acerca del 2dRUE se puede acceder al siguiente documento: [Mapa de la Condición de la Tierra en España: 2000-2010](https://digital.csic.es/bitstream/10261/200778/1/2dRUE_ES_EnFinal_v7.pdf)
 #### RedNatura2000
 <!-- Salto adicional -->
 ![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
