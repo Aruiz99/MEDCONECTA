@@ -37,6 +37,7 @@ Su leyenda refleja niveles crecientes de madurez y complejidad en una escala eco
 con Alta Biomasa, Submaduro, Maduro, Referencia y Anomalía de Alto Rendimiento).
 
 <!-- Salto adicional -->
+<!-- Salto adicional -->
 
 ![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
 
