@@ -16,18 +16,8 @@ El proyecto MEDCONECTA tiene como objetivo primordial la delineación de una red
 Teniendo en cuenta que las transferencias funcionales entre ecosistemas suelen darse más fácilmente si el espacio intermedio tiene propiedades similares, se ensayará un algoritmo en el sureste
 peninsular, utilizando la información de Andalucía, Región de Murcia y Comunidad Valenciana. Además, se integrará la identificación de acciones de restauración o gestión según los estándares de Soluciones basadas en la Naturaleza de la UICN (Unión Internacional para la Conservación de la Naturaleza).
 
-Un aspecto fundamental de esta metodología es la inclusión de un componente participativo que involucra a técnicos y gestores del medio. Esta participación activa permitirá recopilar conocimientos prácticos y perspectivas locales que enriquecerán la planificación y ejecución del proyecto.
+Un aspecto fundamental de esta metodología es la inclusión de un componente participativo que involucra a técnicos y gestores del medio. Esta participación activa permitirá recopilar conocimientos prácticos y perspectivas locales que enriquecerán la planificación y ejecución del proyecto. Se espera que los resultados de esta investigación proporcionen una base técnica sólida que oriente a las autoridades reguladoras en el desarrollo integral de la Infraestructura Verde. 
 
-Por último, se espera que los resultados de esta investigación proporcionen una base técnica sólida que oriente a las autoridades reguladoras en el desarrollo integral de la Infraestructura Verde. 
-
-MEDCONECTA busca delinear una red de corredores que maximicen la coherencia espacial de la Infraestructura
-Verde (IV), identificando los niveles de conservación o restauración que se requieren para asegurar la
-funcionalidad del sistema. Teniendo en cuenta que las transferencias funcionales entre ecosistemas suelen darse
-más fácilmente si el espacio intermedio tiene propiedades similares, se ensayará un algoritmo en el sureste
-peninsular, utilizando la información de Andalucía, Región de Murcia y Comunidad Valenciana en materia de IV
-que se combinará con la identificación de acciones de restauración o de gestión bajo el estándar de Soluciones
-basadas en la Naturaleza de UICN. Se incluye un componente de participación con los técnicos y gestores del
-medio. El objetivo es que los resultados proporcionen una base técnica a las 
 ## Metodología
 
 ### Datos de Entrada
