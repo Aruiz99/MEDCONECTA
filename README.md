@@ -62,7 +62,8 @@ Para más información acerca de la RedNatura2000 se puede acceder al siguiente 
 
 ### Desarrollo
 
-Explica la metodología o proceso de desarrollo del proyecto.
+El algoritmo central del proyecto MEDCONECTA se basa en un algoritmo de crecimiento. A partir de un conjunto inicial de semillas, se lleva a cabo un análisis de su entorno utilizando la información proporcionada por el 2dRUE. El objetivo es identificar y buscar áreas afines o similares alrededor de estas semillas iniciales. Este proceso permite determinar las áreas que presentan similitudes ecológicas con las semillas, contribuyendo así a la delimitación de zonas con características ambientales favorables para la conformación de corredores o conexiones naturales.
+
 
 ### Resultados
 
