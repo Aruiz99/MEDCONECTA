@@ -50,9 +50,14 @@ La Red Natura 2000 es un conjunto de áreas protegidas establecido en la Unión 
 En este algorimo se ha empleado un subconjunto de los LIC como semillas iniciales, concretamente se han empleado los LIC que se encuentran en zonas de aridez o colindantes a ellas. Para determinar las zonas de aridez se ha empleado el índice de aridez FAO-UNEP y se han seleccionado aquellas que poseen un índice FAO-UNEP de (0.05 - 0.20).
 
 <!-- Salto adicional -->
+
 ![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
 
+<!-- Salto adicional -->
+<!-- Salto adicional -->
 
+Para más información acerca de la RedNatura2000 se puede acceder al siguiente enlace:
+[Red Natura 2000 - España](https://www.miteco.gob.es/es/biodiversidad/temas/espacios-protegidos/red-natura-2000.html)
 
 
 
