@@ -1,5 +1,5 @@
 ![Captura de pantalla 2023-09-19 130101](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/3dee5ae0-4099-43e7-b457-0707e61649fd)
-# PROYECTO <span style="color:green">MEDCONECTA</span>. DISEÑO DE <span style="color:green">CORREDORES VERDES</span> PARA EL DESARROLLO DE SOLUCIONES BASADAS EN LA NATURALEZA
+# PROYECTOs <span style="color:green">MEDCONECTA</span>. DISEÑO DE <span style="color:green">CORREDORES VERDES</span> PARA EL DESARROLLO DE SOLUCIONES BASADAS EN LA NATURALEZA
 
 ## Índice
 - [Introducción](#introduccion)
