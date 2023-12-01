@@ -20,8 +20,6 @@ peninsular, utilizando la información de Andalucía, Región de Murcia y Comuni
 Un aspecto fundamental de esta metodología es la inclusión de un componente participativo que involucra a técnicos y gestores del medio. Esta participación activa permitirá recopilar conocimientos prácticos y perspectivas locales que enriquecerán la planificación y ejecución del proyecto. Se espera que los resultados de esta investigación proporcionen una base técnica sólida que oriente a las autoridades reguladoras en el desarrollo integral de la Infraestructura Verde. 
 
 ## Metodología
-En este apartado se analizarán los datos iniciales, seguidamente se explicará el funcionamiento del algoritmo princicipal y por último, se mostrarán algunos ejemplos de los resultados obtenidos.
-
 En esta sección se llevará a cabo un análisis de los datos iniciales recopilados para el proyecto MEDCONECTA. Este análisis permitirá establecer un contexto completo y sólido sobre el cual se fundamentará el desarrollo del proyecto.
 
 Posteriormente, se presentará una explicación detallada del funcionamiento del algoritmo principal. Se describirá paso a paso la metodología utilizada para la optimización y creación del mapa de afinidad que, tras la posterior revisión de los técnicos, se convertirá en la red de corredores verdes.
@@ -30,7 +28,14 @@ Finalmente, se exhibirán ejemplos representativos de los resultados obtenidos a
 
 ### Datos iniciales
 El algoritmo se basa en dos conjuntos de datos principales como entrada. Por un lado, utilizamos el mapa base de trabajo conocido como '2dRUE', que representa la condición de la tierra y actúa como nuestra referencia principal. Por otro lado, empleamos un conjunto inicial de datos llamado 'semillas' o 'zonas núcleo', que consiste en un subconjunto de Lugares de Importancia Comunitaria (LIC) pertenecientes a la red Natura 2000, específicamente ubicados en el sureste peninsular. Estas 'semillas' proporcionan puntos iniciales clave para la aplicación del algoritmo en el proceso de delineación de corredores verdes.
+
 #### 2dRUE
+El "2dRUE" es una metodología que emplea dos componentes, valoración y seguimiento, para evaluar la condición de la tierra en función de la eficiencia en el uso de la lluvia, comparando la capacidad ecológica actual de los sitios con sus condiciones potenciales de referencia y detectando tendencias de cambio a lo largo del tiempo. En una primera instancia se ha empleado el componente de valoración, que se refiere al estado de degradación y trata de cuantificar el rendimiento ecológico de cada sitio respecto a sus condiciones potenciales de referencia. Su paradigma es que la Eficiencia en el Uso de la Lluvia (RUE por sus siglas en inglés) es máxima en sitios con una condición ecológica favorable, para lo que usa dos
+implementaciones temporales de este concepto que indican respectivamente biomasa media y productividad máxima. En ella, cada sitio es comparado sincrónicamente con todos los demás durante el período de análisis. La comparación entre la situación actual y el potencial teórico proporciona información valiosa sobre la degradación, el desarrollo o la estabilidad de los ecosistemas a lo largo del tiempo.
+
+Su leyenda refleja niveles crecientes de madurez y complejidad en una escala ecológica (Anomalía de Bajo Rendimiento, Basal, Muy Degradado, Degradado, Productivo con Baja Biomasa, Productivo
+con Alta Biomasa, Submaduro, Maduro, Referencia y Anomalía de Alto Rendimiento).
+
 ![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
 
 #### Red Natura 2000
