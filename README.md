@@ -1,6 +1,7 @@
 ![Captura de pantalla 2023-09-19 130101](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/3dee5ae0-4099-43e7-b457-0707e61649fd)
+# PROYECTO MEDCONECTA
 
-## Tabla de Contenidos
+## Índice
 - [Introducción](#introduccion)
 - [Metodología](#metodología)
    - [Datos de Entrada](#datos-de-entrada)
