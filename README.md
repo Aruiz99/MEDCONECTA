@@ -6,6 +6,7 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
+$${\color{red}Red}$$
 
 ## Índice
 - [Introducción](#introduccion)
