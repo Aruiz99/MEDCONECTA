@@ -4,17 +4,33 @@ MEDCONECTA busca delinear una red de corredores que maximicen la coherencia espa
 
 ## Tabla de Contenidos
 
-- [Instalación](#instalación)
+- [Metodología](#metodología)
+   - [Datos de Entrada](#datos-de-entrada)
+   - [Desarrollo](#desarrollo)
+   - [Resultados](#resultados)
 - [Uso](#uso)
-- [Contribución](#contribución)
 - [Licencia](#licencia)
 
-## Instalación
+## Metodología
 
-Proporciona aquí instrucciones claras y concisas sobre cómo instalar y configurar tu proyecto. Incluye ejemplos si es posible.
+### Datos de Entrada
 
-## Datos de entrada
+Describe los datos o recursos que se utilizan como entrada en el proyecto.
 
+### Desarrollo
+
+Explica la metodología o proceso de desarrollo del proyecto.
+
+### Resultados
+
+Muestra los resultados o hallazgos obtenidos del proyecto.
+
+## Uso
+
+Explica cómo utilizar tu proyecto, proporciona ejemplos, capturas de pantalla y demostraciones si es posible.
+
+```javascript
+// Ejemplo de código
 ![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
 ![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
 
