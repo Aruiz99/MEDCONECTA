@@ -38,7 +38,7 @@ Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pued
 ```python
 // Ejemplo de código
 h = 1
-´´´
+python ´´´
 
 ![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
 ![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
