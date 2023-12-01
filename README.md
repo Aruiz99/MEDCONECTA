@@ -47,6 +47,7 @@ Para más información acerca del 2dRUE se puede acceder al siguiente documento:
 
 #### RedNatura2000
 La Red Natura 2000 es un conjunto de áreas protegidas establecido en la Unión Europea con el propósito de salvaguardar y conservar la biodiversidad. Está compuesta por Lugares de Importancia Comunitaria (LIC) y Zonas de Especial Protección para las Aves (ZEPA), esta red abarca espacios cruciales para la preservación de hábitats naturales, especies animales y vegetales en peligro, contribuyendo significativamente a la conservación de la naturaleza y el equilibrio ecológico en Europa. 
+
 En este algorimo se ha empleado un subconjunto de los LIC como semillas iniciales, concretamente se han empleado los LIC que se encuentran en zonas de aridez o colindantes a ellas. Para determinar las zonas de aridez se ha empleado el índice de aridez FAO-UNEP y se han seleccionado aquellas que poseen un índice FAO-UNEP de (0.05 - 0.20).
 
 <!-- Salto adicional -->
@@ -57,11 +58,7 @@ En este algorimo se ha empleado un subconjunto de los LIC como semillas iniciale
 <!-- Salto adicional -->
 
 Para más información acerca de la RedNatura2000 se puede acceder al siguiente enlace:
-[Red Natura 2000 - España](https://www.miteco.gob.es/es/biodiversidad/temas/espacios-protegidos/red-natura-2000.html)
-
-
-
-
+[Red Natura 2000 - Ministerio de España](https://www.miteco.gob.es/es/biodiversidad/temas/espacios-protegidos/red-natura-2000.html)
 
 ### Desarrollo
 
