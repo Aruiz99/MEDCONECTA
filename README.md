@@ -24,6 +24,14 @@ Un aspecto fundamental de esta metodología es la inclusión de un componente pa
 ### Datos de Entrada
 
 Describe los datos o recursos que se utilizan como entrada en el proyecto.
+![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
+![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
+
+
+
+
+
+
 
 ### Desarrollo
 
@@ -32,6 +40,7 @@ Explica la metodología o proceso de desarrollo del proyecto.
 ### Resultados
 
 Muestra los resultados o hallazgos obtenidos del proyecto.
+![id_growing](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/046c529c-c50b-4a11-826e-9f50982dfa1a)
 
 ## Uso
 
@@ -47,14 +56,8 @@ Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pued
 h = 1
 python ´´´
 
-![Imagen2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/1cb52c11-571b-4ba0-88b4-ef9d30c517af)
-![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
-
-
-![id_growing](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/046c529c-c50b-4a11-826e-9f50982dfa1a)
 
 ![Captura de pantalla 2023-09-19 125746](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/f701a90d-7db0-4183-84c2-3b7d4680496d)
-
 
 
 
