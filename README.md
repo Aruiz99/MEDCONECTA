@@ -27,7 +27,7 @@ Posteriormente, se presentará una explicación detallada del funcionamiento del
 Finalmente, se exhibirán ejemplos representativos de los resultados obtenidos a través del proceso de implementación del algoritmo. Estos ejemplos proporcionarán una vista general de como se comporta el algoritmo. Se mostrarán visualizaciones y datos concretos que ilustren su impacto potencial en la región. Estos resultados servirán como referencia para evaluar la eficacia y relevancia de las estrategias desarrolladas en el marco del proyecto MEDCONECTA.
 
 ### Datos iniciales
-El algoritmo se basa en dos conjuntos de datos principales como entrada. Por un lado, utilizamos el mapa base de trabajo conocido como '2dRUE', que representa la condición de la tierra y actúa como nuestra referencia principal. Por otro lado, empleamos un conjunto inicial de datos llamado 'semillas' o 'zonas núcleo', que consiste en un subconjunto de Lugares de Importancia Comunitaria (LIC) pertenecientes a la red Natura 2000, específicamente ubicados en el sureste peninsular. Estas 'semillas' proporcionan puntos iniciales clave para la aplicación del algoritmo en el proceso de delineación de corredores verdes.
+El algoritmo se basa en dos conjuntos de datos principales como entrada. Por un lado, utilizamos el mapa base de trabajo conocido como '2dRUE', que representa la condición de la tierra y actúa como nuestra referencia principal. Por otro lado, empleamos un conjunto inicial de datos llamado 'semillas' o 'zonas núcleo', que consiste en un subconjunto de Lugares de Importancia Comunitaria (LIC) pertenecientes a la RedNatura2000, específicamente ubicados en el sureste peninsular. Estas 'semillas' proporcionan puntos iniciales clave para la aplicación del algoritmo en el proceso de delineación de corredores verdes.
 
 #### 2dRUE
 El "2dRUE" es una metodología que emplea dos componentes, valoración y seguimiento, para evaluar la condición de la tierra en función de la eficiencia en el uso de la lluvia, comparando la capacidad ecológica actual de los sitios con sus condiciones potenciales de referencia y detectando tendencias de cambio a lo largo del tiempo. En una primera instancia se ha empleado el componente de valoración, que se refiere al estado de degradación y trata de cuantificar el rendimiento ecológico de cada sitio respecto a sus condiciones potenciales de referencia. Su paradigma es que la Eficiencia en el Uso de la Lluvia (RUE por sus siglas en inglés) es máxima en sitios con una condición ecológica favorable, para lo que usa dos
@@ -44,7 +44,15 @@ con Alta Biomasa, Submaduro, Maduro, Referencia y Anomalía de Alto Rendimiento)
 <!-- Salto adicional -->
 
 Para más información acerca del 2dRUE se puede acceder al siguiente documento: [Mapa de la Condición de la Tierra en España: 2000-2010](https://digital.csic.es/bitstream/10261/200778/1/2dRUE_ES_EnFinal_v7.pdf)
+
 #### RedNatura2000
+La Red Natura 2000 es un conjunto de áreas protegidas establecido en la Unión Europea con el propósito de salvaguardar y conservar la biodiversidad. Está compuesta por Lugares de Importancia Comunitaria (LIC) y Zonas de Especial Protección para las Aves (ZEPA), esta red abarca espacios cruciales para la preservación de hábitats naturales, especies animales y vegetales en peligro, contribuyendo significativamente a la conservación de la naturaleza y el equilibrio ecológico en Europa. 
+En este algorimo se ha empleado un subconjunto de los LIC como semillas iniciales, concretamente se han empleado los LIC que se encuentran en zonas de aridez o colindantes a ellas. Para determinar las zonas de aridez se ha empleado el índice de aridez FAO-UNEP
+
+El índice de aridez FAO-UNEP es el cociente entre la precipitación total anual (P) y la Evapotranspiración Potencial anual (ETP), ambas en mm o litros/m2. Intuitivamente, expresa la cantidad de agua recibida efectivamente (P) en relación a la demanda atmosférica según el clima del sitio (ETP). Se llama ETP porque hay dos vías para que un sitio pierda agua hacia la atmósfera: evaporación directa, y transpiración de las plantas.
+ 
+El índice de aridez sirve para clasificar paisajes en zonas de aridez. Las que nos conciernen más, porque forman el dominio climático de la desertificación, son las áridas (0.05 – 0.20), semiáridas (0.20 – 0.50) y subhúmedas secas (0.50 – 0.65). Un valor de 0.50 significa que ese sitio recibe solo la mitad de la lluvia que necesitaría según la demanda atmosférica que tiene.
+
 <!-- Salto adicional -->
 ![Layout 2](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/70b92b72-b86d-44a0-a17d-0b190a6b5b43)
 
