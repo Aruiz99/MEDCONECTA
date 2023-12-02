@@ -67,9 +67,12 @@ El algoritmo central del proyecto MEDCONECTA se basa en un algoritmo de crecimie
 <!-- Salto adicional -->
 ![Captura de pantalla 2023-12-01 203402](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/9e0a327d-852c-435e-b9b0-313b632562b1)
 <!-- Salto adicional -->
+
 ![Captura de pantalla 2023-12-01 203441](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/7b8ecf9a-6ab6-4b8f-9c4c-74bcd9844f76)
 
 ![desarrollo](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/dd6c212e-a077-4d0c-b456-a198790b5c40)
+
+![Captura de pantalla 2023-12-02 113659](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/20fa7497-dc71-4295-9870-2a4ddc67ba9e)
 
 ### Resultados
 
