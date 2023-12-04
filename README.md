@@ -118,11 +118,7 @@ Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pued
 
 ## Licencia
 
-```python
-// Ejemplo de código
-h = 1
-python ´´´
-
+Este proyecto está bajo la licencia MIT. Para más detalles, lee el archivo [LICENSE](LICENSE).
 
 ![Captura de pantalla 2023-09-19 125746](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/f701a90d-7db0-4183-84c2-3b7d4680496d)
 
