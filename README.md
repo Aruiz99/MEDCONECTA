@@ -64,11 +64,25 @@ Para más información acerca de la RedNatura2000 se puede acceder al siguiente 
 
 El algoritmo central del proyecto MEDCONECTA se basa en un algoritmo de crecimiento. A partir de un conjunto inicial de semillas, se lleva a cabo un análisis de su entorno utilizando la información proporcionada por el 2dRUE. El objetivo es identificar y buscar áreas afines o similares alrededor de estas semillas iniciales. Este proceso permite determinar las áreas que presentan similitudes ecológicas con las semillas, contribuyendo así a la delimitación de zonas con características ambientales favorables para la conformación de corredores o conexiones naturales.
 
+Para identificar áreas afines alrededor de las semillas se va a comparar la composición original de la semilla en base al 2dRUE con la composición de diferentes muestras de terreno alrededor de la semilla. Estas muestras se extraerán de los bordes de la semilla y consistirán en por cada punto del borde de la semilla se trazará un kernel de NxN alrededor del punto y se comparará todo lo que esté fuera de la semilla con la composicion original de la misma.
+
+Para identificar áreas afines con las semillas iniciales, se llevará a cabo un proceso de comparación entre la composición original de las semillas y la composición de diversas muestras de terreno extraídas de los alrededores de estas semillas. 
+En este contexto, la "composición" se refiere al histograma que muestra la distribución o la cantidad de píxeles asociados con cada categoría del 2dRUE dentro de un área o conjunto específico.
+
+Las muestras se obtendrán de los bordes de las semillas mediante un enfoque de kernel. Específicamente, para cada punto en el borde de la semilla, se trazará un kernel de tamaño NxN alrededor de dicho punto. Se comparará la composición de cada muestra asociada a cada punto del borde con la composición original de la semilla.
+
+A continuación, se mostrará un ejemplo de semilla con su compsición asociada, concretamente la semilla corresponde con el LIC de Sierra Nevada:
+
 <!-- Salto adicional -->
 ![Captura de pantalla 2023-12-01 203402](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/9e0a327d-852c-435e-b9b0-313b632562b1)
 <!-- Salto adicional -->
 
+De la misma manera, se mostrará un ejemplo de muestra alrededor de la semilla original.
+
+<!-- Salto adicional -->
 ![Captura de pantalla 2023-12-01 203441](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/7b8ecf9a-6ab6-4b8f-9c4c-74bcd9844f76)
+<!-- Salto adicional -->
+
 
 ![desarrollo](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/dd6c212e-a077-4d0c-b456-a198790b5c40)
 
