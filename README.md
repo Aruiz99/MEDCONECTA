@@ -82,11 +82,14 @@ A continuación, se mostrará un ejemplo de muestra alrededor de la semilla orig
 ![Captura de pantalla 2023-12-01 203441](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/7b8ecf9a-6ab6-4b8f-9c4c-74bcd9844f76)
 <!-- Salto adicional -->
 
-Seguidamente se comparará la composición de la muestra asociada a cada punto del borde con la composición original de la semilla. Si la muestra es similar al contenido original de la semilla, diremos que ese punto es afin a dicha semilla y lo consideraremos como tal. Para comparar ambos histogramas se empleará la distancia de cuerda de Orlóci. Esta métrica tiene un rango entre cero y √2 , &radic;2, siendo 0 que ambos histogramos son identicos y &radic;2 que no se asemejan en absoluto.  
-![desarrollo](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/dd6c212e-a077-4d0c-b456-a198790b5c40)
+Seguidamente se comparará la composición de la muestra asociada a cada punto del borde con la composición original de la semilla. Si la muestra es similar al contenido original de la semilla, diremos que ese punto es afin a dicha semilla y lo consideraremos como tal. Para comparar ambos histogramas se empleará la distancia de cuerda de Orlóci. Esta métrica tiene un rango entre cero y &radic;2, siendo 0 que ambos histogramas son identicos y &radic;2 que no se asemejan en absoluto.  
 
-![Captura de pantalla 2023-12-02 113659](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/20fa7497-dc71-4295-9870-2a4ddc67ba9e)
+Seguidamente, se comparará la composición de cada muestra obtenida en los puntos del borde con la composición original de la semilla. Si la muestra es similar al contenido original de la semilla, se clasificará ese punto como afín a la semilla correspondiente. Esta evaluación se llevará a cabo utilizando la distancia de Cuerda de Orlóci como métrica de comparación entre ambos histogramas. Esta métrica, que varía en un rango entre cero y √2, refleja un valor de 0 cuando los histogramas son idénticos, mientras que un valor de √2 indica que no existe similitud alguna entre ambos. Por lo tanto, consideraremos que una muestra es similar si el valor de la distancia de Orlóci entre ambos conjuntos es menor que un umbral predefinido. En caso de que se cumpla esta condición, se incorporará el punto central de la muestra al conjunto original. Este proceso se repetirá para todos los puntos del borde, y una vez que todos los puntos han sido evaluados, se agregarán aquellos considerados afines y se calculará nuevamente el borde, y así hasta que ningún punto más se añada al conjunto. Cabe destacar que siempre se compararán las muestras con la composición original de la semilla, es decir, los nuevos puntos añadidos no se consideran parte del conjunto original.
+
+
+<!-- Salto adicional -->
 ![orloci](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/b5d322e5-58b5-498a-8fba-716e340cce57)
+<!-- Salto adicional -->
 
 ### Resultados
 
