@@ -111,7 +111,7 @@ Por último, se mostrará el resultado del solapamiento de todas las semillas, l
 En la carpeta denominada "Escenario Cero" se encuentran los resultados obtenidos. En el directorio principal, se puede encontrar el "Escenario Cero" obtenido de dos maneras distintas. Por un lado, se ha diferenciado entre las áreas de interés identificadas (con un valor de 1) y los LICs semillas (con un valor de 2). Por otro lado, se ha creado un mapa binario que combina ambas zonas. Además, se incluye información adicional para facilitar la comprensión de los resultados, incluyendo el crecimiento de cada LIC individualmente, así como el solapamiento de todos ellos, es decir, el número de LICs que se expanden en un mismo terreno.
 
 ## Uso
-Explica cómo utilizar tu proyecto, proporciona ejemplos, capturas de pantalla y demostraciones si es posible.
+
 
 ## Estado del proyecto
 Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pueden encontrar errores y funcionalidades incompletas, por ello, se recomienda utilizarlo con precaución.
@@ -120,9 +120,9 @@ Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pued
 
 Este proyecto está bajo la licencia MIT. Para más detalles, lee el archivo [LICENSE](LICENSE).
 
+<!-- Salto adicional -->
 ![Captura de pantalla 2023-09-19 125746](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/f701a90d-7db0-4183-84c2-3b7d4680496d)
-
-
+<!-- Salto adicional -->
 
 
 
