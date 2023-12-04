@@ -82,7 +82,7 @@ A continuación, se mostrará un ejemplo de muestra alrededor de la semilla orig
 ![Captura de pantalla 2023-12-01 203441](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/7b8ecf9a-6ab6-4b8f-9c4c-74bcd9844f76)
 <!-- Salto adicional -->
 
-Seguidamente se comparará la composición de cada muestra asociada a cada punto del borde con la composición original de la semilla, y si la muestra es afin al contenido original de la semilla, el punto central de la 
+Seguidamente se comparará la composición de la muestra asociada a cada punto del borde con la composición original de la semilla. Si la muestra es similar al contenido original de la semilla, diremos que ese punto es afin a dicha semilla y lo consideraremos como tal. Para comparar ambos histogramas se empleará la distancia de cuerda de Orlóci. Esta métrica tiene un rango entre cero y √2 , &radic;2, siendo 0 que ambos histogramos son identicos y &radic;2 que no se asemejan en absoluto.  
 ![desarrollo](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/dd6c212e-a077-4d0c-b456-a198790b5c40)
 
 ![Captura de pantalla 2023-12-02 113659](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/20fa7497-dc71-4295-9870-2a4ddc67ba9e)
