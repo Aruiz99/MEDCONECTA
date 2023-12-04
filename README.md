@@ -102,7 +102,7 @@ El primer resultado que se va a mostrar será directamente el crecimiento de una
 
 Podemos observar como Sierra de Almenara va expandiendose poco a poco por el territorio que resulta similar en base  al 2dRUE.
 
-Por último, se mostrará el resultado del solapamiento de todas las semillas, la leyenda de la izquierda simboliza el número de semillas que llegan hasta el mismo terreno.
+Por último, se mostrará el resultado del solapamiento de todas las semillas, la leyenda de la izquierda simboliza el número de semillas que se expanden en un mismo terreno.
 
 <!-- Salto adicional -->
 ![Imagen6](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/8be7fcac-69f4-4ea5-91e8-e4465ad27ff5)
