@@ -108,7 +108,7 @@ Por último, se mostrará el resultado del solapamiento de todas las semillas, l
 ![Imagen6](https://github.com/Aruiz99/MEDCONECTA_test/assets/116668101/8be7fcac-69f4-4ea5-91e8-e4465ad27ff5)
 <!-- Salto adicional -->
 
-En la carpeta denominada "Escenario Cero" se encuentran los resultados obtenidos. En el directorio principal, se puede encontrar el "Escenario Cero" obtenido de dos maneras distintas. Por un lado, se ha diferenciado entre las áreas de interés identificadas (con un valor de 1) y los LICs semillas (con un valor de 2). Por otro lado, se ha creado un mapa binario que combina ambas zonas. Además, se incluye información adicional para facilitar la comprensión de los resultados, incluyendo el crecimiento de cada LIC individualmente, así como el solapamiento de todos ellos, es decir, el número de LICs que se expanden en un mismo terreno.
+En la carpeta denominada "outputs" se encuentran los resultados obtenidos. En el directorio principal, se puede encontrar el "Escenario Cero" obtenido de dos maneras distintas. Por un lado, se ha diferenciado entre las áreas de interés identificadas (con un valor de 1) y los LICs semillas (con un valor de 2). Por otro lado, se ha creado un mapa binario que combina ambas zonas. Además, se incluye información adicional para facilitar la comprensión de los resultados, incluyendo el crecimiento de cada LIC individualmente, así como el solapamiento de todos ellos, es decir, el número de LICs que se expanden en un mismo terreno.
 
 ## Uso
 
