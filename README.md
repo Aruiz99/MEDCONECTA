@@ -111,7 +111,17 @@ Por último, se mostrará el resultado del solapamiento de todas las semillas, l
 En la carpeta denominada "outputs" se encuentran los resultados obtenidos. En el directorio principal, se puede encontrar el "Escenario Cero" obtenido de dos maneras distintas. Por un lado, se ha diferenciado entre las áreas de interés identificadas (con un valor de 1) y los LICs semillas (con un valor de 2). Por otro lado, se ha creado un mapa binario que combina ambas zonas. Además, se incluye información adicional para facilitar la comprensión de los resultados, incluyendo el crecimiento de cada LIC individualmente, así como el solapamiento de todos ellos, es decir, el número de LICs que se expanden en un mismo terreno.
 
 ## Uso
+Para poder reproducir los resultados del Proyecto MEDCONECTA y acceder a su funcionalidad, se han habilitado dos métodos de uso: 
 
+- Local (Archivos .py): Los archivos .py contienen el código fuente de Python y pueden ejecutarse directamente desde un ordenador local. Al utilizar el proyecto a través de archivos .py, simplemente ejecuta el archivo en tu terminal o en un entorno de desarrollo como VSCode o PyCharm.
+- Google Colab (Archivo .ipynb): Los archivos .ipynb son cuadernos interactivos de Jupyter Notebook, que ofrecen una manera práctica de ejecutar código Python en un entorno basado en la nube, como Google Colab. Para utilizar el Proyecto MEDCONECTA a través de Google Colab, sigue estos pasos:
+
+   1. Accede a Google Colab: Ve a https://colab.research.google.com/ y abre un nuevo cuaderno.
+   2. Importa el archivo .ipynb del Proyecto MEDCONECTA: Puedes cargar el archivo .ipynb directamente desde tu dispositivo o utilizar la opción de cargar desde Google Drive si el archivo está almacenado allí.
+   3. Ejecución del código: Una vez que hayas abierto el cuaderno .ipynb, podrás ver y ejecutar el código incluido en las celdas. Asegúrate de seguir las instrucciones específicas proporcionadas en el proyecto para configurar variables, funciones o cualquier paso       
+      adicional necesario.
+
+Recuerda que, al trabajar con Google Colab, es importante estar conectado a internet para acceder al entorno en la nube y ejecutar el código del Proyecto MEDCONECTA.
 
 ## Estado del proyecto
 Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pueden encontrar errores y funcionalidades incompletas, por ello, se recomienda utilizarlo con precaución.
