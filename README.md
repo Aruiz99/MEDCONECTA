@@ -121,7 +121,7 @@ Para poder reproducir los resultados del Proyecto MEDCONECTA y acceder a su func
    4. Una vez que hayas abierto el cuaderno .ipynb, podrás ver y ejecutar el código incluido en las celdas. Asegúrate de seguir las instrucciones específicas proporcionadas en el proyecto para la configuraración de variables. Recuerda que, al trabajar con Google Colab, es importante estar conectado a internet para acceder al entorno en la nube y ejecutar el código del Proyecto MEDCONECTA.
 
 ## Estado del proyecto
-Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pueden encontrar errores y funcionalidades incompletas, por ello, se recomienda utilizarlo con precaución.
+Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pueden encontrar errores y funcionalidades incompletas, por ello, se recomienda utilizarlo con precaución. Si se identifica alguna funcionalidad no deseada, por favor rogamos que se notifique al siguiente correo: arranca@eeza.csic.es 
 
 ## Licencia
 
