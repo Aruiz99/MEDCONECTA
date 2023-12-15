@@ -118,9 +118,7 @@ Para poder reproducir los resultados del Proyecto MEDCONECTA y acceder a su func
    1. Accede al cuaderno de Google Colab mediante el siguiente enlace: [https://colab.research.google.com/drive/1heMJUUJb1Ayus9oHCt6C_mXDiO_sjRJi?usp=sharing](https://colab.research.google.com/drive/1heMJUUJb1Ayus9oHCt6C_mXDiO_sjRJi?usp=sharing)
    2. Si el enlace anterior no es válido, accede directamente a Google Colab: Ve a https://colab.research.google.com/ y abre un nuevo cuaderno.
    3. Importa el archivo .ipynb del Proyecto MEDCONECTA: Puedes cargar el archivo .ipynb directamente desde tu dispositivo o utilizar la opción de cargar desde Google Drive si el archivo está almacenado allí.
-   4. Una vez que hayas abierto el cuaderno .ipynb, podrás ver y ejecutar el código incluido en las celdas. Asegúrate de seguir las instrucciones específicas proporcionadas en el proyecto para configurar variables, funciones o cualquier paso       
-      adicional necesario.
-   Recuerda que, al trabajar con Google Colab, es importante estar conectado a internet para acceder al entorno en la nube y ejecutar el código del Proyecto MEDCONECTA.
+   4. Una vez que hayas abierto el cuaderno .ipynb, podrás ver y ejecutar el código incluido en las celdas. Asegúrate de seguir las instrucciones específicas proporcionadas en el proyecto para la configuraración de variables. Recuerda que, al trabajar con Google Colab, es importante estar conectado a internet para acceder al entorno en la nube y ejecutar el código del Proyecto MEDCONECTA.
 
 ## Estado del proyecto
 Este proyecto se encuentra actualmente en una fase de desarrollo activa. Se pueden encontrar errores y funcionalidades incompletas, por ello, se recomienda utilizarlo con precaución.
